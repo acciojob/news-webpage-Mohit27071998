@@ -23,6 +23,7 @@ header{
 	border:2px solid black;
 	margin:15px;
 	border-radius:5px;
+	text-align:center;
 	
 }
 .main-article{
@@ -33,6 +34,7 @@ header{
 	border:2px solid black;
 	margin:10px;
 	border-radius:5px;
+	text-align:center;
 }
 .pictorial-news-section{
 	background-color: white;
@@ -42,5 +44,6 @@ header{
 	border:2px solid black;
 	margin:10px;
 	border-radius:5px;
+	text-align:center;
 }
 	
